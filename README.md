@@ -13,6 +13,7 @@ Download Script & Just RUN on Your PC.
 
 # Disclaimer:
 All script made for testing pupose! We are not responsible for any damages.
+
 DO NOT HARM OR SEND ANYONE.
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
