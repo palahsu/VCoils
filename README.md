@@ -11,7 +11,7 @@ after RUN any script, your pc will be freezes and you need to restart your compu
 # How to Use:
 Download Script & Just RUN on Your PC.
 
-# Disclaimer
+# Disclaimer:
 All script made for testing pupose! We are not responsible for any damages.
 DO NOT HARM OR SEND ANYONE.
 
