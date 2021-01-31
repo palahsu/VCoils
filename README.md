@@ -2,7 +2,7 @@
 
 Presenting Powerfull Windows Viruses by VBScript!
 
-In this file, There are many powerful viruses that can damage your PC in a matter of seconds.
+In this file, There are many powerful viruses 💀 that can damage your PC in a matter of seconds.
 
 # NOTE:
 Before RUN any script, make sure you have save your all working files cause
