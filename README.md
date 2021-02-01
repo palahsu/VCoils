@@ -7,6 +7,7 @@ In this file, There are many powerful viruses 💀 that can damage your PC in a 
 # ⚠️NOTE:
 Before RUN any script, make sure you have save your all working files cause
 after RUN any script, your pc will be freezes and you need to restart your computer.
+(Some Script Crash Your PC)
 
 # How to Use:
 Download Script & Just RUN on Your PC.
